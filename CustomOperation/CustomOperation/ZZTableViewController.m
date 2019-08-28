@@ -60,6 +60,9 @@
     [super viewDidLoad];
     NSString *path = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES)[0];
     NSLog(@"%@", path);
+    NSLog(@"%@", path);
+    NSLog(@"%@", path);
+    NSLog(@"%@", path);
     
 }
 
